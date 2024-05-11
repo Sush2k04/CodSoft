@@ -27,15 +27,3 @@ print("-----------------------------------------------------")
 
 
 
-
-'''while True:
-    if choice=="Y":
-        l= int(input("Enter length of password u want:"))
-        for i in range(0,l):
-            pwd += random.choice(c)
-        print("Generating Password:", pwd)
-        pwd=''
-    else:
-        break
-    choice=input("ENTER YOUR CHOICE(Y/N):") '''
-        
